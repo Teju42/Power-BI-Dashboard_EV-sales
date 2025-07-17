@@ -37,7 +37,7 @@ The dashboard provides insights into:
 
 <img width="1121" height="632" alt="image" src="https://github.com/user-attachments/assets/865103ea-23a9-4789-a521-037e7fefc364" />
 <img width="817" height="301" alt="image" src="https://github.com/user-attachments/assets/5bf30d16-3054-4fb2-a143-d966515bf509" />
-<img width="1109" height="630" alt="image" src="https://github.com/user-attachments/assets/c2ea9551-99c9-4e60-8e6b-c9e7b24adb9b" />
+<img width="1114" height="628" alt="image" src="https://github.com/user-attachments/assets/fa257695-d2cd-49de-b943-bb845a9d653a" />
 
 
 
